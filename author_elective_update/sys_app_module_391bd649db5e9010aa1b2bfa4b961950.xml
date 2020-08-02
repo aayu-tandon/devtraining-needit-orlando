@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="NeedIt">0242fb8d0fa83200cd674f8ce1050e79</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Administration</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>850</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_58872_needit.admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-27 17:28:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>391bd649db5e9010aa1b2bfa4b961950</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Administration</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_391bd649db5e9010aa1b2bfa4b961950</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-01 20:22:08</sys_updated_on>
+        <timeline_page/>
+        <title>Administration</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>b1ce2968dbd80810f492c59705961998</instance_id>
+        <instance_name>dev94158</instance_name>
+        <name>sys_app_module_391bd649db5e9010aa1b2bfa4b961950</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="NeedIt">0242fb8d0fa83200cd674f8ce1050e79</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>Administration</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>850</order><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_58872_needit.admin</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-27 17:28:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>391bd649db5e9010aa1b2bfa4b961950</sys_id><sys_mod_count>5</sys_mod_count><sys_name>Administration</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_391bd649db5e9010aa1b2bfa4b961950</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-01 20:22:08</sys_updated_on><timeline_page/><title>Administration</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1541824011</payload_hash>
+        <record_name>Administration</record_name>
+        <reverted_from/>
+        <source>187b1cbedb129010aa1b2bfa4b961944</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-01 20:22:09</sys_created_on>
+        <sys_id>9324bc32db929010aa1b2bfa4b96195a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173abb05d800000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-01 20:22:09</sys_updated_on>
+        <type>Module</type>
+        <update_guid>9b24bc32849290107fc626499bc6f259</update_guid>
+        <update_guid_history>9b24bc32849290107fc626499bc6f259:1541824011,c6d3f0325a929010f1f2657d2d5a6dbf:946259452,9353f032ed929010601d7ee01db8c0c3:-1628051538,a7ddd0b2e2529010a7ca302d497aab34:1541824011,1d6b90327a5290108acc73ed4df9a664:0,295b5cfe83129010f851dba8085723e9:618901249,10a1543a5e12901040cbc1457ddac533:0,b05253b1001210102143d169c79851d3:618901249,214fa511e0d210106b10fe8165382972:0,c3ab09d1de52101007a07afb0c49b709:618901249,850bc591ab521010b0b85653a71808d1:0,4b4409d95d121010c310633ae094e605:618901249,307c9289ce5e90107ec75dbf3d19815a:1959471016</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Administration">1e05f472db929010aa1b2bfa4b961996</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-01 20:25:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>041a246d526340d182a636a5d95d9d41</sys_id>
+        <sys_metadata>391bd649db5e9010aa1b2bfa4b961950</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Administration</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_391bd649db5e9010aa1b2bfa4b961950</sys_update_name>
+        <sys_update_version display_value="sys_app_module_391bd649db5e9010aa1b2bfa4b961950">9324bc32db929010aa1b2bfa4b96195a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-01 20:25:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

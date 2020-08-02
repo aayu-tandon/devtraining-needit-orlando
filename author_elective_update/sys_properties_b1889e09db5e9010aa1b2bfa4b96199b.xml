@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices>7,14,21,18</choices>
+        <description>Number of days a NeedIt Task is overdue before it should automatically close.</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_58872_needit.autoClosedOverdue</name>
+        <read_roles>x_58872_needit.admin</read_roles>
+        <suffix>autoClosedOverdue</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-27 17:13:49</sys_created_on>
+        <sys_id>b1889e09db5e9010aa1b2bfa4b96199b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.autoClosedOverdue</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_b1889e09db5e9010aa1b2bfa4b96199b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-27 17:13:49</sys_updated_on>
+        <type>choicelist</type>
+        <value>14</value>
+        <write_roles>admin</write_roles>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=b1889e09db5e9010aa1b2bfa4b96199b"/>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>b1ce2968dbd80810f492c59705961998</instance_id>
+        <instance_name>dev94158</instance_name>
+        <name>sys_properties_b1889e09db5e9010aa1b2bfa4b96199b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices>7,14,21,18</choices>
+        <description>Number of days a NeedIt Task is overdue before it should automatically close.</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_58872_needit.autoClosedOverdue</name>
+        <read_roles>x_58872_needit.admin</read_roles>
+        <suffix>autoClosedOverdue</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-27 17:13:49</sys_created_on>
+        <sys_id>b1889e09db5e9010aa1b2bfa4b96199b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.autoClosedOverdue</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_b1889e09db5e9010aa1b2bfa4b96199b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-27 17:13:49</sys_updated_on>
+        <type>choicelist</type>
+        <value>14</value>
+        <write_roles>admin</write_roles>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=b1889e09db5e9010aa1b2bfa4b96199b"/>
+</record_update>]]></payload>
+        <payload_hash>1610116339</payload_hash>
+        <record_name>x_58872_needit.autoClosedOverdue</record_name>
+        <reverted_from/>
+        <source>b94bd4fedb129010aa1b2bfa4b9619d7</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-01 18:33:53</sys_created_on>
+        <sys_id>e56b9032db529010aa1b2bfa4b9619c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173ab4d413d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-01 18:33:53</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>256b9032c0529010957e245936da65c6</update_guid>
+        <update_guid_history>256b9032c0529010957e245936da65c6:0,ba5b9cfe181290101bb9fb97ef8d5bf3:1616352685,a8a1543af61290102e57e451b43348ab:0,b95293b1ee121010238940b96d5cbfb3:1616352685,314fa5115dd2101097972ec6216b43b5:0,37ab09d1eb521010b60ee1655959eba7:1616352685,510b09917452101035300c052323222e:0,885409d9d012101081c2cb2717b923e9:1616352685,98291649c75e9010f7c45fbf7586a5e7:130308665</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-01 20:26:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>290f91f083b14684a5caf91a277a9f10</sys_id>
+        <sys_metadata>b1889e09db5e9010aa1b2bfa4b96199b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.autoClosedOverdue</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_properties_b1889e09db5e9010aa1b2bfa4b96199b</sys_update_name>
+        <sys_update_version display_value="sys_properties_b1889e09db5e9010aa1b2bfa4b96199b">e56b9032db529010aa1b2bfa4b9619c6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-01 20:26:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

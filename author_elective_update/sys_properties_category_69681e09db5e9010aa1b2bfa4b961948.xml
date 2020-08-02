@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="DELETE">
+        <name> Needit Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-27 17:11:44</sys_created_on>
+        <sys_id>69681e09db5e9010aa1b2bfa4b961948</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name> Needit Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_69681e09db5e9010aa1b2bfa4b961948</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-01 20:13:46</sys_updated_on>
+        <title><![CDATA[<p><img style="border: 11px solid black; vspace: .05px; hspace: .05px; align: baseline;" title="Time at ServiceNow Headquarters in Santa Clara, California" src="ipinfo-logo.pngx" alt="Welcome...!!!!" width="204" height="204" align="baseline" border="11" hspace=".05" vspace=".05" /></p>
+<p>Hi...we are making the <em><strong>system property</strong></em></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="DELETE" query="documentkey=69681e09db5e9010aa1b2bfa4b961948"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>b1ce2968dbd80810f492c59705961998</instance_id>
+        <instance_name>dev94158</instance_name>
+        <name>sys_properties_category_69681e09db5e9010aa1b2bfa4b961948</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_properties_category"&gt;&lt;sys_properties_category action="INSERT_OR_UPDATE"&gt;&lt;name&gt; Needit Properties&lt;/name&gt;&lt;sys_class_name&gt;sys_properties_category&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-07-27 17:11:44&lt;/sys_created_on&gt;&lt;sys_id&gt;69681e09db5e9010aa1b2bfa4b961948&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt; Needit Properties&lt;/sys_name&gt;&lt;sys_package display_value="NeedIt" source="x_58872_needit"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NeedIt"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_properties_category_69681e09db5e9010aa1b2bfa4b961948&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-08-01 20:13:46&lt;/sys_updated_on&gt;&lt;title&gt;&lt;![CDATA[&lt;p&gt;&lt;img style="border: 11px solid black; vspace: .05px; hspace: .05px; align: baseline;" title="Time at ServiceNow Headquarters in Santa Clara, California" src="ipinfo-logo.pngx" alt="Welcome...!!!!" width="204" height="204" align="baseline" border="11" hspace=".05" vspace=".05" /&gt;&lt;/p&gt;
+&lt;p&gt;Hi...we are making the &lt;em&gt;&lt;strong&gt;system property&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;]]&gt;&lt;/title&gt;&lt;/sys_properties_category&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=69681e09db5e9010aa1b2bfa4b961948"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>80487138</payload_hash>
+        <record_name> Needit Properties</record_name>
+        <reverted_from/>
+        <source>187b1cbedb129010aa1b2bfa4b961944</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-01 20:13:46</sys_created_on>
+        <sys_id>f842bcbedb529010aa1b2bfa4b9619b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173aba8b3770000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-01 20:13:46</sys_updated_on>
+        <type>System Property Category</type>
+        <update_guid>f042bcbee25290100f664b26510e36b3</update_guid>
+        <update_guid_history>f042bcbee25290100f664b26510e36b3:80487138,f4617cbefc529010bf0533dd55c30a3f:-657467791,a96b90327f52901008f1cc1ccdbe6ccb:0,c65b9cfe471290107843ead0fa13ce74:-2126097435,20a1543a25129010f039cbf0077a0cb1:0,555293b173121010c6c692cb03fb6b44:-2126097435,b54fa511b6d21010ef6a3be10bd6a3ba:0,d7ab09d1355210107c2a2835ade1896b:-2126097435,d50b09917d521010acac5aed161ca733:0,234409d94712101067c5ec43370b47a2:-2126097435,eda89245ac5e90102315614e19efd2f7:-973936015</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-01 20:26:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties_category">sys_properties_category</sys_db_object>
+        <sys_id>23a3fba5f6e1447091e073d4bc890a24</sys_id>
+        <sys_metadata>69681e09db5e9010aa1b2bfa4b961948</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name> Needit Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_properties_category_69681e09db5e9010aa1b2bfa4b961948</sys_update_name>
+        <sys_update_version display_value="sys_properties_category_69681e09db5e9010aa1b2bfa4b961948">f842bcbedb529010aa1b2bfa4b9619b3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-01 20:26:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
